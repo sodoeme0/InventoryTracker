@@ -1,0 +1,17 @@
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\bin\Debug\Inventory Tracker.exe.config
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\bin\Debug\Inventory Tracker.exe
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\bin\Debug\Inventory Tracker.pdb
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.AssemblyReference.cache
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.HomePg.resources
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.InitialInput.resources
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.Inventory.resources
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.WelecomePg.resources
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.Properties.Resources.resources
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.GenerateResource.cache
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.exe
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.pdb
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sodoe\OneDrive\Desktop\GithubProjects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.CopyComplete

@@ -16,5 +16,15 @@ namespace Inventory_Tracker
         {
             InitializeComponent();
         }
+
+        private void newData_Click(object sender, EventArgs e)
+        {
+             
+           InitialInput initialInput = new InitialInput();
+            initialInput.Show();
+           this.Hide(); 
+        }
+
+        
     }
 }
